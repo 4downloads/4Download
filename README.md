@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/7d3beffe-e6f1-45e5-866e-a4eaa0589226
 
+Check Out https://linktr.ee/4download
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
